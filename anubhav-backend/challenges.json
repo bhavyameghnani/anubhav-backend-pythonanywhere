@@ -1,0 +1,39 @@
+[
+   {
+      "title":"Collect competitive exam books and donate them to a nearby open library",
+      "deadline":"2 weeks",
+      "description":"Students in low-income communities are less likely to score well on national competitive exams. Help young minds ace their next competitive exam by donating books to your nearest library. Increased access to test prep materials can help increase a student's feeling of preparedness and her overall score on standardized tests. Upload book-deposit slip as proof to earn points right away!",
+      "points":"100",
+      "tag":"Community Collaboration"
+   },
+   {
+      "title":"Host a holiday meal",
+      "deadline":"3 weeks",
+      "description":"The ending of 2020 deserves to be celebrated, given this difficult year. In this holiday season, what’s better than hosting a holiday meal for your loved ones. Share love, some laughs and a good meal while everyone does their part to protect one another. Upload your group selfie to obtain points.",
+      "points":"50",
+      "tag":"Mental Wellness"
+   },
+   {
+      "title":"Give a seminar on driving safety.",
+      "deadline":"2 weeks",
+      "description":"New motorists cause a large number of distracted driving accidents. That’s why safety lessons must begin before a child gets the keys. Conduct a seminar on driving safety for teens at any school. Upload video link to inspire and educate :)",
+      "points":"100",
+      "tag":"Community Collaboration"
+   },
+   {
+      "title":"Clean up your local park.",
+      "deadline":"2 weeks",
+      "description":"Are you looking for a volunteer project that's fun for the whole family? Your local park is a great place to start!  If your park isn't up to par, this is your opportunity to make it a more desirable and fun place for your whole family to enjoy. Upload pictures/videos of the same to get acknowledged for points.",
+      "points":"125",
+      "tag":"Green Earth",
+      "resource": "https://adventure.howstuffworks.com/10-ways-your-family-can-clean-local-parks.htm"
+   },
+   {
+      "title":"Feed Stray Animals",
+      "deadline":"1 week",
+      "description":"No matter how much we'd want, every animal doesn't get a home. According to a 2016 report by The Washington Post, there were at least 30 million stray dogs in India, and the numbers have only increased in two years. This is your chance to volunteer on a personal level to feed the stray animals and take care of them. Upload images to earn rewards yourself, or tag your animal-lover friend to begin the fun! Follow these guidelines before hopping in",
+      "points":"75",
+      "tag":"Mental Wellness",
+      "resource": "https://www.scoopwhoop.com/rules-to-follow-while-feeding-stray-animals/"
+   }
+]
