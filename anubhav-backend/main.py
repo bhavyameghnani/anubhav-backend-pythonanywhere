@@ -1,4 +1,3 @@
-from bson import ObjectId
 from flask import Flask, jsonify, request
 from flask_cors import CORS,cross_origin
 from pymongo import MongoClient
@@ -9,6 +8,7 @@ from location import getLocInfo
 import os
 import json
 from bson.json_util import dumps
+
 
 client = MongoClient("mongodb+srv://anubhav:hackathon@cluster0.o1kse.mongodb.net/vibrance_db?retryWrites=true&w=majority")
 db = client.get_database('vibrance_db')
