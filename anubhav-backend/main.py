@@ -10,7 +10,7 @@ import json
 from bson.json_util import dumps
 from bson import ObjectId
 
-client = MongoClient("mongodb+srv://anubhav:hackathon@cluster0.o1kse.mongodb.net/vibrance_db?retryWrites=true&w=majority")
+client = MongoClient("Paste Link Here")
 db = client.get_database('vibrance_db')
 
 app = Flask(__name__)
